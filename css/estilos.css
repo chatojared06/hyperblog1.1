@@ -1,13 +1,7 @@
 body {
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace;
-=======
     font-family: monospace;
-    padding: 0;
->>>>>>> cabecera
 }
-
 #cabeza {
     background-color: rgb(98, 97, 97);
     border-top-left-radius: 22px;
