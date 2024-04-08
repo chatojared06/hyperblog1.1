@@ -2,16 +2,24 @@ body {
     color: #333;
     text-align: center;
     font-family: monospace;
+    background: rgb(79, 95, 87);
 }
 #cabeza {
     background-color: rgb(98, 97, 97);
     border-top-left-radius: 22px;
     border-top-right-radius: 22px;
+    display: flex;
     text-align: left;
     color: white;
     font-size: 20px;
     margin: 0;
     padding: 0.5em;
+}
+
+#logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
 }
 
 #container {
