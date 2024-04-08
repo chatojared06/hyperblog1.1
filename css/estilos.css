@@ -33,3 +33,11 @@ body {
     padding: 1em;
 }
 
+#footer {
+   background-color: #000000; 
+   color:white;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   padding: 0.5em;
+}
+
